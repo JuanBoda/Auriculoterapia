@@ -1,0 +1,37 @@
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\primeraApp.exe.config
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\primeraApp.exe
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\primeraApp.pdb
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.csproj.AssemblyReference.cache
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.Properties.Resources.resources
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.csproj.GenerateResource.cache
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.exe
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.pdb
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.Pantalla_Inicial.resources
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.Busqueda_Ficha.resources
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.Ficha_Paciente.resources
+C:\Users\Juan Pe\Desktop\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.Nueva_Ficha.resources
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\primeraApp.exe.config
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\primeraApp.exe
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\primeraApp.pdb
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.csproj.AssemblyReference.cache
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.Ficha_Paciente.resources
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.Nueva_Ficha.resources
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.Pantalla_Inicial.resources
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.Properties.Resources.resources
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.csproj.GenerateResource.cache
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.csproj.CoreCompileInputs.cache
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.exe
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.pdb
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\datos.dll
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\dominio.dll
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\datos.pdb
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\dominio.pdb
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\obj\Debug\primeraApp.csproj.CopyComplete
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\NuGet.Frameworks.dll
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\FluentValidation.dll
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\FluentValidation.xml
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\bin\Debug\System.Threading.Tasks.Extensions.xml

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeraApp", "primeraApp\primeraApp.csproj", "{7DA47773-8FAF-4A5A-A010-745564C8E082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{3E2502D4-81B8-4DC9-8B4C-EB5674E348D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datos", "datos\datos.csproj", "{22A3EE1B-D143-4A2B-B079-AD91EA785700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA47773-8FAF-4A5A-A010-745564C8E082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA47773-8FAF-4A5A-A010-745564C8E082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA47773-8FAF-4A5A-A010-745564C8E082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA47773-8FAF-4A5A-A010-745564C8E082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2502D4-81B8-4DC9-8B4C-EB5674E348D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2502D4-81B8-4DC9-8B4C-EB5674E348D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2502D4-81B8-4DC9-8B4C-EB5674E348D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2502D4-81B8-4DC9-8B4C-EB5674E348D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A3EE1B-D143-4A2B-B079-AD91EA785700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A3EE1B-D143-4A2B-B079-AD91EA785700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A3EE1B-D143-4A2B-B079-AD91EA785700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A3EE1B-D143-4A2B-B079-AD91EA785700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AAE534C-22A9-4291-A0CA-69183622DD25}
+	EndGlobalSection
+EndGlobal

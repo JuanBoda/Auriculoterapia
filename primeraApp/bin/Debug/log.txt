@@ -1,0 +1,6 @@
+System.InvalidOperationException: La conexión no se cerró. El estado actual de la conexión es abierta.
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en primeraApp.Nueva_Ficha.btnGuardarNuevaFicha_Click(Object sender, EventArgs e) en D:\Programacion\Curso C# Nivel 2\Auriculoterapia\primeraApp\Nueva Ficha.cs:línea 131
